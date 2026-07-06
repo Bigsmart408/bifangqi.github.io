@@ -1,6 +1,5 @@
-- XXXXXXX论文
+- Fangqi Bi, Guoqi Xie, Yuan Wang, Hao Wen, Sirong Zhao, Zhenli He, Shaowen Yao, Chenglai Xiong, Xingyu Hu , Bo Wan , Yiwen Jiang, “Hypercall-Oriented Abnormal VM Status Detection System: A Non-intrusive Solution for Both Hypervisor and Guests,” IEEE Transactions on Computers (TC), DOI: 10.1109/TC.2025.3584274 （CCF A）
 
-- XXXXXXX论文
+- Ying SUN,Fangqi BI,Jiatai HE,Sheng QU,Yanjun WU,Pengpeng HOU, "KconfigTune: Automatic Performance Tuning for Linux Kernel Configuration," IEEE Transactions on Computers (TC), DOI: 10.1109/TC.2025.3644413 (CCF A, Co-first author)
 
-- XXXXXXX论文
 
